@@ -29,13 +29,15 @@
   font-size: 22px;
 }
 
-.form-control {
+input.form-control {
   width: 40%;
   display: inline;
 }
 
 .btn-light {
   padding: 3px 6px;
+  margin-left: 10px;
+  margin-bottom: 2px;
 }
 
 .btn-info {
